@@ -1,6 +1,6 @@
 ### Hello! It's nice to meet you 👋
 
-I am a data scientist and software engineer at [Posit PBC](https://posit.co/) where I work on [open source MLOps tooling](https://vetiver.rstudio.com/). My last name is pronounced SILL-GHEE (two syllables, short `i`, hard `g`). I love making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
+I am a data scientist and engineering manager at [Posit PBC](https://posit.co/) where I work on tools for data science like [Positron](https://github.com/posit-dev/positron), [vetiver](https://vetiver.posit.co/), and others. My last name is pronounced SILL-GHEE (two syllables, short `i`, hard `g`). I love making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
 
 In school, I studied physics and astronomy; I worked in academia (teaching and doing research) and ed tech before moving into data science in 2015 and discovering R. I am an author, an international speaker, and a real-world practitioner focusing on data analysis and machine learning. I have written books with my collaborators about [text mining](https://www.tidytextmining.com/), [supervised machine learning for text](https://smltar.com/), and [modeling with tidy data principles](https://www.tmwr.org/) in R.
 
