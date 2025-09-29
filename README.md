@@ -9,6 +9,7 @@ I live in Salt Lake City, UT, with my husband, three kids, and two cats.
 You can find me elsewhere at:
 
 - 🔗 [Website](https://juliasilge.com/)
+- 🦋 [Bluesky](https://bsky.app/profile/juliasilge.com)
 - 🐘 <a rel="nofollow me" href="https://fosstodon.org/@juliasilge">Mastodon</a>
 - 🎥 [YouTube](https://www.youtube.com/juliasilge)
 - 💼 [LinkedIn](https://www.linkedin.com/in/juliasilge/)
